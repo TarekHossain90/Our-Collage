@@ -1,3 +1,4 @@
 # Our-Collage
-This is my first Repository
-Auther - Tarek Hossain
+This is my first Repository.
+<br>
+Author - Tarek Hossain
